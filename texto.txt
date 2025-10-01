@@ -1,0 +1,5 @@
+Fontes Consolas   Open sans
+
+cores de fundo  #202020   #a6a6a6    #000000    #e1e1e1
+
+Letras    #ffffff
